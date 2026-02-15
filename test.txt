@@ -1,5 +1,5 @@
 ==============================================Decoration Txt File==================================================
-				1. Hellow from git_practice
+				1. Hello from git_practice
 
 				2. This younus ali from thk
 
